@@ -16,4 +16,14 @@
 - Remoção de médicos
 
 - Construir um pacote chamado endereco dentro de model e criar uma classe Endereco com os atributos listados anaixo. Além disso, crie os getters, setters, construtor com todos os parametros e construtor sem nenhum parametro usando o lombok.
-(logradouro, bairro, cep, cidade, uf, numero, complemento)
+(logradouro, bairro, cep, cidade, uf, numero, complemento).
+
+# AULA 2
+Verbos/métodos HTTP
+`GET` -> É quando você pede algo de retorno.
+`POST` -> É quando você passa informações.
+PUT 
+DELETE
+
+Request[REQUISIÇÃO] -> É o que você passa esperando retorno.
+Response[RESPOSTA] -> É a resposta que você recebe.
